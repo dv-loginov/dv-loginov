@@ -23,3 +23,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg" title="MongoDB" alt="mongodb" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sass/sass-original.svg" title="SASS" alt="sass" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/webpack/webpack-original.svg" title="Webpack" alt="webpack" width="50" height="50"/>&nbsp;
+
+
+<div id="header" align="center">
+
+## Статистика
+[![GitHub Streak](https://streak-stats.demolab.com?user=dv-loginov&theme=dark&locale=ru)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dv-loginov&layout=compact)
+</div>
