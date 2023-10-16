@@ -20,9 +20,9 @@
 
 ### Мои контакты
 
-<a href="mailto:dilog@rambler.ru"><img src="https://img.shields.io/badge/-Email-003f5c" title="Email" alt="Email" width="50" height="30"/></a>
-<a href="https://t.me/@dilog"><img src="https://img.shields.io/badge/-Telegram-003f5c" title="Telegram" alt="Telegram" width="70" height="30"/></a>
-<a href="https://wa.me/89103577063"><img src="https://img.shields.io/badge/-WhatsApp-003f5c" title="WhatsApp" alt="WhatsApp" width="75" height="30"/></a>
+<a href="mailto:dilog@rambler.ru" target="_blank"><img src="https://img.shields.io/badge/-Email-003f5c" title="Email" alt="Email" width="50" height="30"/></a>
+<a href="https://t.me/@dilog" target="_blank"><img src="https://img.shields.io/badge/-Telegram-003f5c" title="Telegram" alt="Telegram" width="70" height="30"/></a>
+<a href="https://wa.me/89103577063" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-003f5c" title="WhatsApp" alt="WhatsApp" width="75" height="30"/></a>
 
 <div id="stat" align="center">
 
